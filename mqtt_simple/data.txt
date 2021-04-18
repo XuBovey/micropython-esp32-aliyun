@@ -1,0 +1,1 @@
+GET /?ssid=setting...&password=loading...@ HTTP

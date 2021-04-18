@@ -15,7 +15,7 @@ if a==False:
     wifi.html_sever()
 
 
-print("成功")
+print("wifi connect done")
 
 
 
